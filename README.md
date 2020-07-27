@@ -24,7 +24,7 @@
  ### Links
   - LinkedIn https://www.linkedin.com/in/rafael-fernandez-gomez-/
   
-  [![FerrowRafael's github stats](https://github-readme-stats.vercel.app/api?username=ferrowrafael)](https://github.com/ferrowrafael/github-readme-stats)
+  [![FerrowRafael's github stats](https://github-readme-stats.vercel.app/api?username=ferrowrafael&theme=dark&show_icons=true)](https://github.com/ferrowrafael/github-readme-stats)
 <!--
 **FerrowRafael/FerrowRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
