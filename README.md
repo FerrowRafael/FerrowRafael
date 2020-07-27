@@ -1,4 +1,4 @@
-## Rafael Fernández Gómez 👋
+## Rafael Fernández Gómez 👨‍💻
 
 ### Tecnologies
 
