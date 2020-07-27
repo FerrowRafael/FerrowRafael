@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrowrafael" alt="ferrowrafael" /> </p>
-zzz
+
 - 🌱 I’m currently learning **VueJS**
 
 - 📫 How to reach me **ferrowrafael@gmail.com**
