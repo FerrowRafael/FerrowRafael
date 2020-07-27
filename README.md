@@ -20,6 +20,9 @@
  - Social media
     * FrontEnd: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend
     * BackEnd: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Backend
+    
+ ### Links
+  - LinkedIn https://www.linkedin.com/in/rafael-fernandez-gomez-/
 <!--
 **FerrowRafael/FerrowRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
