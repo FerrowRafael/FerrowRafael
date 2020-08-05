@@ -7,21 +7,21 @@
 
 - My projects
   * Movies Netflix (Angular/Express/Sequelize)
-    Frontend: https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev
-    Backend: https://github.com/FerrowRafael/GH-Proyecto1-Netflix-Backend/tree/dev
+     * Frontend: https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev
+     * Backend: https://github.com/FerrowRafael/GH-Proyecto1-Netflix-Backend/tree/dev
   * Ecommerce (React/Redux/Express/MongoDB)
-    Frontend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Frontend
-    Backend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Backend
+     * Frontend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Frontend
+     * Backend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Backend
   * Social Network (React/Redux/Laravel)
-    Frontend: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend
-    Backend: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Backend
+     * Frontend: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend
+     * Backend: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Backend
   
   Now
   * Ecommerce (Angular/Express/MongoDB)
-    Frontend: https://github.com/FerrowRafael/Ecommerce-Angular/tree/dev
-    Backend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Backend
+     * Frontend: https://github.com/FerrowRafael/Ecommerce-Angular/tree/dev
+     * Backend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Backend
   * Movies (VueJs/TMDB api)
-    Frontend: https://github.com/FerrowRafael/Movies_VUE
+     * Frontend: https://github.com/FerrowRafael/Movies_VUE
     
 - 📫 How to reach me **ferrowrafael@gmail.com**
 
