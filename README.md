@@ -1,13 +1,17 @@
 <h1 align="center">Hi, I'm Rafael Fernández Gómez 👨‍💻</h1>
-<h3 align="center">A passionate Fullstack developer.</h3>
+<h3 align="center">A junior Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrowrafael" alt="ferrowrafael" /> </p>
 
 - 🔭 I’m currently working on my project ToDo-List-Project 
 - 🌱 I’m currently learning **VueJS**
 - Ask me about React, MongoDB
-- 📫 How to reach me **ferrowrafael@gmail.com**
-- You can find me on <a href="https://twitter.com/ferrowrafael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/ferrowrafael" height="25" width="25" /></a>, or on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rafael-fernandez-gomez-/" height="25" width="25" /></a>
+- 🌍 I'm from Valencia, Spain
+
+FIND ME:
+- Sharing updates on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/">Linkedin</a> 💼
+- My <a href="https://twitter.com/ferrowrafael">Twitter</a> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/ferrowrafael" height="25" width="25" /> account 
+-  Contact me **ferrowrafael@gmail.com** ✉️
 
 MY PROJECTS 👨‍🔬
   - <a href="https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend">Social Network (React/Redux/Laravel)</a> 
@@ -41,7 +45,7 @@ TECHNOLOGIES & TOOLS 🔧
 </div>
   
   
-<img src="https://github-readme-stats.vercel.app/api?username=FerrowRafael&hide=contribs,issues">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrowRafael&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=FerrowRafael&hide=contribs,issues&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrowRafael&layout=compact&theme=dark">
 
 
