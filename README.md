@@ -6,15 +6,10 @@
 - 🌱 I’m currently learning **VueJS**
 
 - My projects
-  * Movies Netflix (Angular/Express/Sequelize)
-     * Frontend: https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev
-     * Backend: https://github.com/FerrowRafael/GH-Proyecto1-Netflix-Backend/tree/dev
-  * Ecommerce (React/Redux/Express/MongoDB)
-     * Frontend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Frontend
-     * Backend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Backend
-  * Social Network (React/Redux/Laravel)
-     * Frontend: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend
-     * Backend: https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Backend
+  * <a href="https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev">Movies Netflix</a> (Angular/Express/Sequelize)
+  * <a href="https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Frontend">Ecommerce</a> (React/Redux/Express/MongoDB)
+  * <a href="https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend">Social Network</a> (React/Redux/Laravel)
+
   
   Now
   * Ecommerce (Angular/Express/MongoDB)
