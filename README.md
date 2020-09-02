@@ -4,22 +4,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrowrafael" alt="ferrowrafael" /> </p>
 
 - 🌱 I’m currently learning **VueJS**
+- Ask me about React, MongoDB
+- 📫 How to reach me **ferrowrafael@gmail.com**
 
-- My projects
+
+- <h4>MY PROJECTS</h4>
   * <a href="https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev">Movies Netflix</a> (Angular/Express/Sequelize)
   * <a href="https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Frontend">Ecommerce</a> (React/Redux/Express/MongoDB)
   * <a href="https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend">Social Network</a> (React/Redux/Laravel)
-
   
   Now
-  * Ecommerce (Angular/Express/MongoDB)
-     * Frontend: https://github.com/FerrowRafael/Ecommerce-Angular/tree/dev
-     * Backend: https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Backend
-  * Movies (VueJs/TMDB api)
-     * Frontend: https://github.com/FerrowRafael/Movies_VUE
+  * <a href="https://github.com/FerrowRafael/Ecommerce-Angular/tree/dev">Ecommerce</a> (Angular/Express/MongoDB)
+  * <a href="https://github.com/FerrowRafael/Movies_VUE">Movies Netflix</a> (VueJs/TMDB api)
+  
+
     
-- 📫 How to reach me **ferrowrafael@gmail.com**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrowRafael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordma
 rk.svg" alt="vuejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
@@ -35,6 +36,7 @@ rk.svg" alt="vuejs" width="40" height="40"/> <img src="https://devicons.github.i
  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></p><p align="center"> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FerrowRafael&hide=contribs,issues)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrowRafael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://twitter.com/ferrowrafael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/ferrowrafael" height="60" width="60" /></a>
