@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Rafael Fernández Gómez 👨‍💻</h1>
-<h3 align="center">A junior Full Stack Developer.</h3>
+<img src="./Portada.jpg" alt="Rafael Fernandez Gomez"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrowrafael" alt="ferrowrafael" /> </p>
 
