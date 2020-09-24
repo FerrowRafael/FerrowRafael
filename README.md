@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrowrafael" alt="ferrowrafael" /> </p>
 
-- 🔭 I’m currently working on my project ToDo-List-Project 
+- 🔭 I’m currently working on my project DietME2 
 - 🌱 I’m currently learning **VueJS**
 - Ask me about React, MongoDB
 - 🌍 I'm from Valencia, Spain
