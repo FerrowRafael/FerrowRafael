@@ -26,7 +26,7 @@
   
 ## Technologies & Tools 🔧
 ### LANGUAGES
-<div style="display:flex; justify-content: space-evenly;">
+<div style="margin-rigth: 10px">
   <img src="./Logos/javascript.png" alt="javascript" width="auto" height="40"/> 
   <img src="./Logos/typescript.png" alt="typescript" width="auto" height="40"/> 
   <img src="./Logos/php.png" alt="php" width="auto" height="40"/> 
