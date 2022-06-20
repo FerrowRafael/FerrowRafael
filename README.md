@@ -26,7 +26,7 @@
   
 ## Technologies & Tools 🔧
 ### LANGUAGES
-<div style="margin-rigth: 10px">
+<div>
   <img src="./Logos/javascript.png" alt="javascript" width="auto" height="40"/> 
   <img src="./Logos/typescript.png" alt="typescript" width="auto" height="40"/> 
   <img src="./Logos/php.png" alt="php" width="auto" height="40"/> 
@@ -34,7 +34,7 @@
 </div>
 
 ### FRONTEND
-<div style="display:flex; justify-content: space-evenly;">
+<div>
   <img src="./Logos/html.png" alt="html" width="auto" height="40"/> 
   <img src="./Logos/css.png" alt="css" width="auto" height="40"/> 
   <img src="./Logos/angular2.png" alt="angular" width="auto" height="40"/> 
@@ -43,20 +43,20 @@
   <img src="./Logos/wordpress.png" alt="wordpress" width="auto" height="40"/> 
 </div>
 
-<div style="display:flex; justify-content: space-evenly;">
+<div>
   <img src="./Logos/sass.png" alt="sass" width="auto" height="40"/> 
   <img src="./Logos/bootstrap.png" alt="bootstrap" width="auto" height="40"/> 
   <img src="./Logos/tailwind.png" alt="tailwind" width="auto" height="40"/> 
 </div>
 
 ### BACKEND
-<div style="display:flex; justify-content: space-evenly;">
+<div>
   <img src="./Logos/node.png" alt="node" width="auto" height="40"/> 
   <img src="./Logos/expressjs.png" alt="expressjs" width="auto" height="40"/> 
   <img src="./Logos/laravel.png" alt="laravel" width="auto" height="40"/> 
 </div>
 
-<div style="display:flex; justify-content: space-evenly;">
+<div>
   <img src="./Logos/mysql.png" alt="mysql" width="auto" height="40"/> 
   <img src="./Logos/mongodb.png" alt="mongodb" width="auto" height="40"/> 
 </div>
