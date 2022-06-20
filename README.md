@@ -8,7 +8,7 @@
 - 🌍 I'm from Valencia, Spain
 
 ## Find Me
-- Sharing updates on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/">Linkedin</a> <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="https://www.linkedin.com/in/rafael-fernandez-gomez-/" height="auto" width="25" />
+- Sharing updates on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/">Linkedin</a> <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="https://www.linkedin.com/in/rafael-fernandez-gomez-/" height="auto" width="30" />
 - My <a href="https://twitter.com/ferrowrafael">Twitter</a> <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="https://twitter.com/ferrowrafael" height="25" width="25" /> account 
 -  Contact me **ferrowrafael@gmail.com** ✉️
 
