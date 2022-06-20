@@ -3,26 +3,73 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrowrafael" alt="ferrowrafael" /> </p>
 
 - 🔭 I’m currently working on my project DietME2 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **Python**
 - Ask me about React, MongoDB
 - 🌍 I'm from Valencia, Spain
 
-FIND ME:
-- Sharing updates on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/">Linkedin</a> 💼
-- My <a href="https://twitter.com/ferrowrafael">Twitter</a> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/ferrowrafael" height="25" width="25" /> account 
+## Find Me
+- Sharing updates on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/">Linkedin</a> <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="https://www.linkedin.com/in/rafael-fernandez-gomez-/" height="auto" width="25" />
+- My <a href="https://twitter.com/ferrowrafael">Twitter</a> <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="https://twitter.com/ferrowrafael" height="25" width="25" /> account 
 -  Contact me **ferrowrafael@gmail.com** ✉️
 
-MY PROJECTS 👨‍🔬
-  - <a href="https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend">Social Network (React/Redux/Laravel)</a> 
+## My Projects 👨‍🔬
+<!--   - <a href="https://github.com/FerrowRafael/GH-Proyecto3-RedSocial-Frontend">Social Network (React/Redux/Laravel)</a> 
   - <a href="https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Frontend">Ecommerce (React/Redux/Express/MongoDB)</a> 
-  - <a href="https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev">Movies Netflix (Angular/Express/Sequelize)</a> 
+  - <a href="https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev">Movies Netflix (Angular/Express/Sequelize)</a>  -->
 
-  Now
-  - <a href="https://github.com/FerrowRafael/Ecommerce-Angular/tree/dev">Ecommerce (Angular/Express/MongoDB)</a> 
+### Now
+  - <a href="https://github.com/FerrowRafael/DietMe_2_Laravel">DietMe2 Backend (Laravel)</a> 
+  - <a href="https://github.com/FerrowRafael/Diet_ME_2_FrontEnd">DietMe2 FrontEnd (Angular)</a> 
+  - <a href="https://github.com/FerrowRafael/prueba-tecnica-punkapi">Prueba Técnica PunkApi (Angular)</a> 
   - <a href="https://github.com/FerrowRafael/Movies_VUE">Movies Netflix (VueJS/TMDB API)</a> 
   
-TECHNOLOGIES & TOOLS 🔧 
-<div align="center">
+  
+## Technologies & Tools 🔧
+### Languages
+<ul>
+  <li>Javascript</li>
+  <li>Typescript</li>
+  <li>PHP</li>
+  <li>SQL</li>
+</ul>
+
+### FRONTEND
+<ul>
+  <li>HTML5 & CSS3</li>
+  <li>Angular</li>
+  <li>React</li>
+  <li>Ionic</li>
+  <li>Wordpress</li>
+</ul>
+
+<ul>
+  <li>SASS</li>
+  <li>Bootstrap</li>
+  <li>Tailwind</li>
+</ul>
+
+### BACKEND
+<ul>
+  <li>NodeJS</li>
+  <li>ExpressJS</li>
+  <li>Laravel</li>
+</ul>
+
+<ul>
+  <li>MySQL</li>
+  <li>MongoDB</li>
+</ul>
+
+### HERRAMIENTAS
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Slack</li>
+  <li>Github / Gitlab</li>
+  <li>Asana</li>
+  <li>Jira</li>
+</ul>
+
+<!-- <div align="center">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
@@ -41,7 +88,7 @@ TECHNOLOGIES & TOOLS 🔧
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</div>
+</div> -->
   
   
 <img src="https://github-readme-stats.vercel.app/api?username=FerrowRafael&hide=contribs,issues&theme=dark">
