@@ -17,48 +17,48 @@
   - <a href="https://github.com/FerrowRafael/GH-Proyecto2-Ecommerce-Frontend">Ecommerce (React/Redux/Express/MongoDB)</a> 
   - <a href="https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev">Movies Netflix (Angular/Express/Sequelize)</a>  -->
 
-### Now
-  - <a href="https://github.com/FerrowRafael/DietMe_2_Laravel">DietMe2 Backend (Laravel)</a> 
+<!-- ### Now -->
   - <a href="https://github.com/FerrowRafael/Diet_ME_2_FrontEnd">DietMe2 FrontEnd (Angular)</a> 
+  - <a href="https://github.com/FerrowRafael/DietMe_2_Laravel">DietMe2 Backend (Laravel)</a> 
   - <a href="https://github.com/FerrowRafael/prueba-tecnica-punkapi">Prueba Técnica PunkApi (Angular)</a> 
   - <a href="https://github.com/FerrowRafael/Movies_VUE">Movies Netflix (VueJS/TMDB API)</a> 
   
   
 ## Technologies & Tools 🔧
-### Languages
-<div align="center">
-  <img src="./Logos/javascript.png" alt="javascript" width="40" height="40"/> 
-  <img src="./Logos/typescript.png" alt="typescript" width="40" height="40"/> 
-  <img src="./Logos/php.png" alt="php" width="40" height="40"/> 
-  <img src="./Logos/sql.png" alt="sql" width="40" height="40"/> 
+### LANGUAGES
+<div style="display:flex; justify-content: space-evenly;">
+  <img src="./Logos/javascript.png" alt="javascript" width="auto" height="40"/> 
+  <img src="./Logos/typescript.png" alt="typescript" width="auto" height="40"/> 
+  <img src="./Logos/php.png" alt="php" width="auto" height="40"/> 
+  <img src="./Logos/sql.png" alt="sql" width="auto" height="40"/> 
 </div>
 
 ### FRONTEND
-<div align="center">
-  <img src="./Logos/html.png" alt="html" width="40" height="40"/> 
-  <img src="./Logos/css.png" alt="css" width="40" height="40"/> 
-  <img src="./Logos/angular.png" alt="angular" width="40" height="40"/> 
-  <img src="./Logos/react.png" alt="react" width="40" height="40"/> 
-  <img src="./Logos/ionic.png" alt="ionic" width="40" height="40"/> 
-  <img src="./Logos/wordpress.png" alt="wordpress" width="40" height="40"/> 
+<div style="display:flex; justify-content: space-evenly;">
+  <img src="./Logos/html.png" alt="html" width="auto" height="40"/> 
+  <img src="./Logos/css.png" alt="css" width="auto" height="40"/> 
+  <img src="./Logos/angular.png" alt="angular" width="auto" height="40"/> 
+  <img src="./Logos/react.png" alt="react" width="auto" height="40"/> 
+  <img src="./Logos/ionic.png" alt="ionic" width="auto" height="40"/> 
+  <img src="./Logos/wordpress.png" alt="wordpress" width="auto" height="40"/> 
 </div>
 
-<div align="center">
-  <img src="./Logos/sass.png" alt="sass" width="40" height="40"/> 
-  <img src="./Logos/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
-  <img src="./Logos/tailwind.png" alt="tailwind" width="40" height="40"/> 
+<div style="display:flex; justify-content: space-evenly;">
+  <img src="./Logos/sass.png" alt="sass" width="auto" height="40"/> 
+  <img src="./Logos/bootstrap.png" alt="bootstrap" width="auto" height="40"/> 
+  <img src="./Logos/tailwind.png" alt="tailwind" width="auto" height="40"/> 
 </div>
 
 ### BACKEND
-<div align="center">
-  <img src="./Logos/node.png" alt="node" width="40" height="40"/> 
-  <img src="./Logos/expressjs.png" alt="expressjs" width="40" height="40"/> 
-  <img src="./Logos/laravel.png" alt="laravel" width="40" height="40"/> 
+<div style="display:flex; justify-content: space-evenly;">
+  <img src="./Logos/node.png" alt="node" width="auto" height="40"/> 
+  <img src="./Logos/expressjs.png" alt="expressjs" width="auto" height="40"/> 
+  <img src="./Logos/laravel.png" alt="laravel" width="auto" height="40"/> 
 </div>
 
-<div align="center">
-  <img src="./Logos/mysql.png" alt="mysql" width="40" height="40"/> 
-  <img src="./Logos/mongodb.png" alt="mongodb" width="40" height="40"/> 
+<div style="display:flex; justify-content: space-evenly;">
+  <img src="./Logos/mysql.png" alt="mysql" width="auto" height="40"/> 
+  <img src="./Logos/mongodb.png" alt="mongodb" width="auto" height="40"/> 
 </div>
 
 ### HERRAMIENTAS
