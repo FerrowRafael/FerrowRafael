@@ -61,7 +61,7 @@
   <img src="./Logos/mongodb.png" alt="mongodb" width="auto" height="40"/> 
 </div>
 
-### HERRAMIENTAS
+### TOOLS
 <ul>
   <li>Visual Studio Code</li>
   <li>Slack</li>
