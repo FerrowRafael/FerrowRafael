@@ -37,7 +37,7 @@
 <div style="display:flex; justify-content: space-evenly;">
   <img src="./Logos/html.png" alt="html" width="auto" height="40"/> 
   <img src="./Logos/css.png" alt="css" width="auto" height="40"/> 
-  <img src="./Logos/angular.png" alt="angular" width="auto" height="40"/> 
+  <img src="./Logos/angular2.png" alt="angular" width="auto" height="40"/> 
   <img src="./Logos/react.png" alt="react" width="auto" height="40"/> 
   <img src="./Logos/ionic.png" alt="ionic" width="auto" height="40"/> 
   <img src="./Logos/wordpress.png" alt="wordpress" width="auto" height="40"/> 
