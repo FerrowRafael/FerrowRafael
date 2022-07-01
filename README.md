@@ -9,7 +9,8 @@
 
 ## Find Me
 - Sharing updates on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/">Linkedin</a> <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="https://www.linkedin.com/in/rafael-fernandez-gomez-/" height="auto" width="30" />
-- My <a href="https://twitter.com/ferrowrafael">Twitter</a> <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="https://twitter.com/ferrowrafael" height="25" width="25" /> account 
+- My <a href="https://www.malt.es/profile/rafaelfernandezgomez1" target="_blank"><img src="https://dam.malt.com/rebranding2020/malt-logo/malt-red" alt="https://twitter.com/ferrowrafael" height="25" /></a> account 
+- My <a href="https://twitter.com/ferrowrafael" target="_blank"><img src="https://imagenpng.com/wp-content/uploads/2015/03/logo_twitter2.png" alt="https://twitter.com/ferrowrafael" height="25"/></a> account 
 -  Contact me **ferrowrafael@gmail.com** ✉️
 
 ## My Projects 👨‍🔬
