@@ -8,9 +8,9 @@
 - 🌍 I'm from Valencia, Spain
 
 ## Find Me
-- Sharing updates on <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/">Linkedin</a> <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="https://www.linkedin.com/in/rafael-fernandez-gomez-/" height="auto" width="30" />
-- My <a href="https://www.malt.es/profile/rafaelfernandezgomez1" target="_blank"><img src="https://dam.malt.com/rebranding2020/malt-logo/malt-red" alt="https://twitter.com/ferrowrafael" height="25" /></a> account 
-- My <a href="https://twitter.com/ferrowrafael" target="_blank"><img src="https://imagenpng.com/wp-content/uploads/2015/03/logo_twitter2.png" alt="https://twitter.com/ferrowrafael" height="25"/></a> account 
+- <a href="https://www.linkedin.com/in/rafael-fernandez-gomez-/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/rafael-fernandez-gomez-/" height="25"/></a>
+- <a href="https://www.malt.es/profile/rafaelfernandezgomez1" target="_blank"><img src="https://dam.malt.com/rebranding2020/malt-logo/malt-red" alt="https://twitter.com/ferrowrafael" height="25" /></a>
+- <a href="https://twitter.com/ferrowrafael" target="_blank"><img src="https://imagenpng.com/wp-content/uploads/2015/03/logo_twitter2.png" alt="https://twitter.com/ferrowrafael" height="25"/></a>
 -  Contact me **ferrowrafael@gmail.com** ✉️
 
 ## My Projects 👨‍🔬
