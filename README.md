@@ -19,8 +19,8 @@
   - <a href="https://github.com/danielvazquezguerra/geekshubs-frontend-p6/tree/dev">Movies Netflix (Angular/Express/Sequelize)</a>  -->
 
 <!-- ### Now -->
-  - <a href="https://github.com/FerrowRafael/Diet_ME_2_FrontEnd">DietMe2 FrontEnd (Angular)</a> 
-  - <a href="https://github.com/FerrowRafael/DietMe_2_Laravel">DietMe2 Backend (Laravel)</a> 
+  - <a href="https://github.com/FerrowRafael/PruebaNivelAllfundsFront">Prueba Técnica Allfunds (Angular)</a> 
+  - <a href="https://github.com/FerrowRafael/PruebaNivelAllfundsBack">Prueba Técnica Allfunds (Node/Express/MongoDB)</a> 
   - <a href="https://github.com/FerrowRafael/prueba-tecnica-punkapi">Prueba Técnica PunkApi (Angular)</a> 
   - <a href="https://github.com/FerrowRafael/Movies_VUE">Movies Netflix (VueJS/TMDB API)</a> 
   
